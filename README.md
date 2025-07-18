@@ -32,3 +32,15 @@ This project uses Natural Language Processing (NLP) and Machine Learning to clas
 3. Multiple models are trained and evaluated
 4. The best-performing model is used for predictions
 
+
+## 🧪 Model Performance
+
+| Model              | Accuracy |
+|-------------------|----------|
+| Logistic Regression | 95.6%    |
+| Decision Tree       | 94.3%    |
+| Random Forest       | 94.1%    |
+
+
+
+
